@@ -1,4 +1,4 @@
-![Stanley Yang](https://www.stanleycyang.com/images/stanley200x200.png)
+![Stanley Yang](https://www.stanleycyang.com/images/stanley200x200.svg)
 
 [StanleyCYang.com](https://www.stanleycyang.com) contains the **advanced app creation workshop** that turns novices into iOS and Android app developers.
 
